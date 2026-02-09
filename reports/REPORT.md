@@ -250,20 +250,22 @@ I implemented a genetic algorithm (GA) to evolve an AI paragraph until it fooled
 - **Generations:** Run for 10 generations
 
 ### Results
-- **Starting Score:** [Insert Score]
-- **Final Score:** [Insert Score]
+- **Starting Score:** 0.0067
+- **Final Score:** 0.9019
 - **The "Super-Imposter" Paragraph:**
-	- [Paste the final evolved paragraph here]
+	- That clock, perchance you recall it, the one set within the hall, a grandfatherly sort it was, fashioned of dark wood, quite shrouded in dust, as though it simply *dwelt* there, you apprehend, a silent witness to all. And a creak it emitted, a sorrowful, ancient sound, and the motes of dust, one could descry them whirling, catching those slivers of moonbeam, held in ethereal suspension. The works within, good heavens, so sluggish, all rusted, a true grinding it was, a weighty heartbeat in the stillness. And the pendulum, that brass apparatus, worn so smooth, one might almost feel all the hands, all the bygone years, just oscillating, back and forth, a murmur, perhaps a specter. And when it struck… 'twas as if all that hath passed, all the merriment, every spirit, just… time advancing, ever onward.
 
-- **[Analysis needed]**
-	- **Did it work?** If you broke the detector, what changed? Did the text become nonsensical?
-	- **Resilience:** If the detector held strong, what does that say about LoRA’s robustness?
+
 
 ### The Personal Test
 I ran my own Statement of Purpose (SOP) through the detector.
+this is my SOP
 
-- **Prediction:** [Human / AI]
-- **Confidence:** [Insert %]
+    I am very interested in problems involving mathematics, machine learning, NLP and quantitative finance, probability and statistics, reinforcement learning and stochastic processes. I am interested in doing research in these fields with like minded people, which I feel I can find in Precog. I feel I would be a strong fit because of my interdisciplinary orientation. I actively seek feedback to refine my understanding. I feel like this is a place where my interests and work ethic naturally belong.
+    
+
+- **Prediction:** AI
+- **Confidence:** 81%
 - **[Analysis needed]**
 	- **Reflection:** If it called you AI, are you writing too formally? Try rewriting a paragraph to sound more like an LLM and see if the score goes up.
 
