@@ -266,9 +266,5 @@ this is my SOP
 
 - **Prediction:** AI
 - **Confidence:** 81%
-- **[Analysis needed]**
-	- **Reflection:** If it called you AI, are you writing too formally? Try rewriting a paragraph to sound more like an LLM and see if the score goes up.
 
-## Conclusion
-
-[TODO: Summarize the main takeaway. Example: "While modern LLMs like Gemini can mimic the surface-level themes of authors like Lovecraft, they fail to replicate the deeper syntactic variance and punctuation fingerprints. However, adversarial evolution shows that these distinct features can be smoothed out, suggesting that static detection models will eventually become obsolete..."]
+Upon simply changing the words that were the most exciting features into there synonyms I was able to convert this back to human.
