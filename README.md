@@ -1,4 +1,4 @@
 
 #iNLP Task
 
-Head to [Report](report/report.md) for the complete report
+Head to [Report](reports/REPORT.md) for the complete report
